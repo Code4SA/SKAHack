@@ -22,7 +22,11 @@ Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 ## Tools attendees have used and recommended
 
 - Excel/Calc/Sheets - classic spreadsheets
-- http://openrefine.org/ - Fantastic tool for cleaning and tidying a dataset
+- https://powerbi.microsoft.com/ - online data analysis/visualisation
+- http://www.qgis.co.za/ - tools for geospatial data - e.g. the satellite imagery from SANSA in TIFF format
+- http://pandas.pydata.org/ - easy to use data structures and data analysis tools - useful when dataset is too large for Excel and you can program
+- http://openrefine.org/ - Desktop tool for cleaning and tidying a dataset
+- http://www.kobotoolbox.org/ - Web and app-based data collection tookit with basic geographic presentation/analysis
 
 [Improve this list](http://goo.gl/forms/G79sDoBhrL)
 
