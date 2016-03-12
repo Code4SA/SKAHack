@@ -18,6 +18,7 @@ Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 - Code4SA Data Portal - http://data.code4sa.org
 - South Africa National Data Portal - http://data.gov.za
 - NASA APIs - https://api.nasa.gov/
+- StatsSA - http://www.statssa.gov.za/
 
 ## Tools attendees have used and recommended
 
