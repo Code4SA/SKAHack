@@ -19,6 +19,7 @@ Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 - South Africa National Data Portal - http://data.gov.za
 - NASA APIs - https://api.nasa.gov/
 - StatsSA - http://www.statssa.gov.za/
+- Google Search e.g. [Northern Cape filetype:csv](https://www.google.co.za/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=northern%20cape%20filetype%3Acsv)
 
 ## Tools attendees have used and recommended
 
