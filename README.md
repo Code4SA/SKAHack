@@ -4,7 +4,7 @@ Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 ## Data provided by GeeKulcha and event partners
 
 - [SKA - Square Kilometer Array](http://www.ska.ac.za/)
-  - on USB Sticks: /SKA/fact_sheet_meerkat_2014.pdf
+  - on USB Sticks and Online: /SKA/[fact_sheet_meerkat_2014.pdf](http://www.ska.ac.za/download/fact_sheet_meerkat_2014.pdf)
   - on USB Sticks: /SKA/MeerKAT Data - Technical Specs.xlsx
   - on USB Sticks: /SKA/MeerKAT Timeline.xlsx
 - [SANSA - South African National Space Agency](http://www.sansa.org.za/)
