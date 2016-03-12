@@ -19,6 +19,7 @@ Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 - South Africa National Data Portal - http://data.gov.za
   - [SA Higher Education Data](http://chet.org.za/data/sahe-open-data)
   - [SA Water Resources](http://opendataportal.cloudapp.net/dataset/environmental-sustainability-and-resilience)
+  - [MeerKAT detailed Spec and Schedule](http://opendataportal.cloudapp.net/dataset/nation-state-building/resource/df2ef640-a68f-4eda-981c-fe694b0a78b5)
 - NASA APIs - https://api.nasa.gov/
 - StatsSA - http://www.statssa.gov.za/
 - Google Search e.g. [Northern Cape filetype:csv](https://www.google.co.za/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=northern%20cape%20filetype%3Acsv)
