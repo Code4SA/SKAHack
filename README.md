@@ -1,6 +1,8 @@
 # SKAHack
 Data intro/portal for the SKAHack Hackathon - Kimberley - March 2016
 
+[Data Pipeline Presentation slides](https://docs.google.com/presentation/d/1SZaRgNfKFfV2Jv4GugVO7jU2b_uvg-1qtTxVT7AYMmo/edit?usp=sharing)
+
 ## Data provided by GeeKulcha and event partners
 
 - [SKA - Square Kilometer Array](http://www.ska.ac.za/)
